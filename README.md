@@ -1,7 +1,7 @@
 # python_Django_music_system
 基于python语言的Django框架的大数据音乐推荐系统，项目自带爬虫，数据库MySQL，带论文文档
 
-# B站演示视频地址   https://www.bilibili.com/video/BV1Qm411d7RD/?spm_id_from=333.999.0.0
+# B站演示视频地址   https://www.bilibili.com/video/BV1CJ4m1h7N4/?spm_id_from=333.999.0.0
 
 基于Django的音乐个性化推荐系统 
 技术栈：python的Django框架  +   MySQL数据库 + vue框架
